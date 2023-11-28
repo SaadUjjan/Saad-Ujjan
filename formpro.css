@@ -1,0 +1,197 @@
+*{margin: 0;
+padding: 0;}
+body{
+    background-image:  linear-gradient(to left, rgba(0, 0, 255, 0.486)  ,rgba(0, 0, 255, 0.473) ),url(images/examhall.jpg);;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.box1{
+    width: 340px;
+    height: 18vh;
+    margin-left: 500px;
+color: rgb(252, 248, 247);
+ margin-top: 250px;   
+}
+nav{height: 12vh;
+background-color: black;
+}
+
+nav a{
+    float: right;
+padding: 30.5px;
+text-decoration: none;
+color: white;
+}
+
+nav a:hover{
+    color: green;
+}
+
+.form{
+    margin-left: 750px;
+    background-color: rgba(5, 5, 5, 0.582);
+    height: 99.5vh;
+    width: 615.5px;
+    margin-top: -16px;
+}
+
+.pehreen{
+
+margin-top: 10px;
+margin-left: 60px;
+
+}
+input{padding: 10px;
+border-radius: 20px;
+width: 200px;}
+
+select{padding: 10px;
+    border-radius: 20px;
+width: 217px;}
+
+
+.gender{
+margin: -39px 0px 0px 290px  ;
+}
+
+.FN{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.Lastname{ margin-left: 290px;
+    margin-top: -37px;
+}
+
+.selectclass{ 
+    margin-left: 60px;
+    margin-top: 20px; 
+
+}
+.subject{
+    margin: -39px 0px 0px 290px
+}
+
+.contact{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.adress{
+     margin: -39px 0px 0px 290px}
+
+     .email{
+        margin-top: 20px;
+        margin-left: 60px;
+     }
+
+     .password{
+        margin-left: 60px;
+        margin-top: 20px;
+     }
+
+     .confirmpass{
+        margin: -39px 0px 0px 290px
+     }
+
+     .date{
+        margin-top: 20px;
+        margin-left: 60px;
+     }
+
+     .button1{
+        margin-left: 240px;
+        margin-top: 18px;
+        
+     }
+
+     .box4{
+        margin-top: -400px;
+        width: 340px;
+        height: 18vh;
+        margin-left: 180px;
+        color: aliceblue;
+     }
+     
+     
+
+     @media  screen and (  max-width: 786px) {
+        .form{ 
+            
+        margin-top: 600px;
+        margin-left: 0px;
+        width: 762px;
+        background-image: linear-gradient(to left, rgba(0, 0, 0, 0.255)  ,rgba(0, 0, 0, 0.705) ), url(images/examhall.jpg);
+        background-size: cover;
+        height: auto;
+    }
+
+        .box4{
+            margin-top: -1000px;
+            margin-left: 240px;
+        }
+
+        
+      body{
+        background-image:  linear-gradient(to left, rgba(0, 0, 255, 0.486)  ,rgba(0, 0, 255, 0.705) ), url(images/examhall.jpg);
+         
+     }
+
+     .oxford{
+        margin-left: 100px;
+     }
+     .signup{
+        margin-left: 103px;
+     }
+     .pehreen{
+    margin-left: 130px;
+     }
+
+     .gender{
+        margin-left: 430px;
+     }
+.FN{
+    margin-left: 130px;
+}
+.Lastname{
+    margin-left: 430px;
+}
+.selectclass{
+    margin-left: 130px;
+}
+
+.subject{
+    margin-left: 430px;
+    }
+
+
+.contact{
+    margin-left: 130px;
+}
+
+.adress{
+    margin-left: 430px;
+}
+
+.email{
+    margin-left: 130px;
+}
+
+.password{
+    margin-left: 130px;
+}
+.confirmpass{
+    margin-left: 430px;
+}
+
+.date{
+    margin-left: 130px;
+}
+
+.button1{
+    margin-left: 314px;
+}
+
+}

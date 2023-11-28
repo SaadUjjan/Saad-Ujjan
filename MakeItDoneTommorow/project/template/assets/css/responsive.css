@@ -1,0 +1,71 @@
+@media only screen and (max-width: 600px) {
+  .customer-image {
+    display: none;
+  }
+  .box-1 {
+    height: 100%;
+    width: 97%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px 4px whitesmoke;
+    position: relative;
+    top: 50px;
+    left: 7px;
+  }
+  .box-2 {
+    height: 100%;
+    width: 95%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px 4px whitesmoke;
+    position: relative;
+    top: 100px;
+    left: 10px;
+  }
+  .box-3 {
+    height: 100%;
+    width: 95%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px 4px whitesmoke;
+    position: relative;
+    top: 150px;
+    left:7px;
+  }
+  .box-4 {
+    height: 100%;
+    width: 95%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px 4px whitesmoke;
+    position: relative;
+    top: 200px;
+    left: 10px;
+  }
+  .box-5 {
+    height: 100%;
+    width: 95%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px 4px whitesmoke;
+    position: relative;
+    top: 250px;
+    left: 10px;
+  }
+  .boxs-1 img {
+    margin-left: -178%;
+    margin-top: 50%;
+    width: 100%;
+    height: 100%;
+  }
+
+  .box2{
+    margin-top: 50px;
+  }
+  .box3{
+    margin-top: 50px;
+  }
+  nav a{
+    margin: 11 10;
+  }
+}
